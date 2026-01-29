@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Georgina Hernandez — Portfolio</title>
+
+  <!-- Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+
+<body>
+
+  <header class="site-header">
+    <h1>Georgina Hernandez</h1>
+    <p class="tagline">
+      Editorial storytelling rooted in culture, context, and observation.
+    </p>
+  </header>
+
+  <main class="work">
+
+    <section class="category">
+      <h2>Editorial & Authored Work</h2>
+      <p class="category-intro">
+        Self-directed work exploring culture, identity, and observation through text and image.
+      </p>
+
+      <div class="project-grid">
+        <article class="project">
+          <h3>Zine: Cartera</h3>
+          <p>Written & designed zine exploring memory, labor, and inheritance.</p>
+        </article>
+
+        <article class="project">
+          <h3>Featured Zines</h3>
+          <p>Selected appearances in independent print and digital publications.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="category">
+      <h2>Visual & Media Production</h2>
+      <p class="category-intro">
+        Collaborative video and media projects produced for organizations and public audiences.
+      </p>
+
+      <div class="project-grid">
+        <article class="project">
+          <h3>Commercial Production</h3>
+          <p>
+            Produced a commercial for an 80-year-old national roofing company and NBA sponsor,
+            featuring the Spurs Coyote.
+          </p>
+        </article>
+
+        <article class="project">
+          <h3>Instructional Video Series</h3>
+          <p>
+            Co-produced educational videos for the Military Child Education Coalition.
+          </p>
+        </article>
+
+        <article class="project">
+          <h3>OSHA Training Videos</h3>
+          <p>Produced video content for national workplace safety training.</p>
+        </article>
+
+        <article class="project">
+          <h3>Acquisition Announcement</h3>
+          <p>Video production supporting a corporate acquisition announcement.</p>
+        </article>
+
+        <article class="project">
+          <h3>Podcast Social Media Content</h3>
+          <p>Ongoing social video content supporting podcast growth and engagement.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="category">
+      <h2>Strategy & Institutional Work</h2>
+      <p class="category-intro">
+        Strategic communications and marketing work supporting institutional storytelling.
+      </p>
+
+      <div class="project-grid">
+        <article class="project">
+          <h3>National Roofing Company Marketing</h3>
+          <p>
+            Marketing strategy, campaign planning, proposal drafting, and RFP submissions.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <section class="category muted">
+      <h2>Selected & Confidential Engagements</h2>
+      <ul class="confidential-list">
+        <li>
+          <strong>Occupational Safety and Health Administration (OSHA)</strong><br />
+          Produced video content for national training use.
+        </li>
+        <li>
+          <strong>Military Child Education Coalition</strong><br />
+          Instructional video series (internal distribution).
+        </li>
+        <li>
+          <strong>National Roofing Company (NBA Sponsor)</strong><br />
+          Commercial production, acquisition announcement, and strategic initiatives.
+        </li>
+      </ul>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Contact: <a href="mailto:hello@yourdomain.com">hello@yourdomain.com</a></p>
+  </footer>
+
+</body>
+</html>
