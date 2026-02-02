@@ -101,11 +101,13 @@ body {
   max-width: 350px;
   margin: 0 auto;
 }
+
 .project-image {
   width: 100%;
+  max-width: 230px; /* smaller but not tiny */
   height: auto;
   border-radius: 8px;
   display: block;
-  margin-bottom: 12px;
+  margin: 0 auto 12px;
 }
 
