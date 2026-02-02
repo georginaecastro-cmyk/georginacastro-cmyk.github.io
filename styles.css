@@ -101,4 +101,11 @@ body {
   max-width: 350px;
   margin: 0 auto;
 }
+.project-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+  margin-bottom: 12px;
+}
 
